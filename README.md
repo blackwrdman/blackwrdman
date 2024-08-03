@@ -1,3 +1,3 @@
-# LLTNC project name : cờ caro
+# LTNC project name : Cờ caro blitz
 
 
